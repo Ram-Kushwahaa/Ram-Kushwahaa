@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi, I'm Ram Kumar Kushwaha 👋
 
-<!--
-**Ram-Kushwahaa/Ram-Kushwahaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student  
+💻 Aspiring Software Developer  
+📍 India
 
-Here are some ideas to get you started:
+### About Me
+I'm a Computer Science student interested in software development, web technologies and emerging technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building projects, learning new tools and improving my programming and problem-solving skills.
+
+### Technical Skills
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- VS Code
+
+### Projects
+
+**Multiple Stories**
+
+A frontend-based homestay and hostel discovery platform developed using HTML, CSS and JavaScript.
+
+GitHub: https://github.com/Ram-Kushwahaa
+
+### Current Goals
+- Improve programming and problem-solving skills.
+- Build more practical software projects.
+- Explore AI and modern web technologies.
+
+### Connect With Me
+- LinkedIn: https://www.linkedin.com/in/ramkumar-kushwaha-776aa13ba
+- GitHub: https://github.com/Ram-Kushwahaa
+
+** 🧑🏻‍💻 CODE | 📸 CREATE | ✈️ ESCAPE **
