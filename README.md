@@ -22,7 +22,7 @@ I enjoy building projects, learning new tools and improving my programming and p
 
 A frontend-based homestay and hostel discovery platform developed using HTML, CSS and JavaScript.
 
-GitHub: https://github.com/Ram-Kushwahaa
+GitHub: https://ram-kushwahaa.github.io/Multiple-Stories/
 
 ### Current Goals
 - Improve programming and problem-solving skills.
